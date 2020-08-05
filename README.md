@@ -1,5 +1,5 @@
 # wenshu-court-gov-cn
-## 裁判文书网瑞数Cookie和HifJzoc9生成接口
+## 裁判文书网瑞数Cookie和HifJzoc9生成接口(2020.08.05测试可用)
 ## 概述
 > 反爬厂商：瑞数
 ## 项目说明
